@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FluentFlier
 - 👀 I’m interested in Cybersecurity,Software Development
-- 🌱 I’m currently learning Java and Python
-- 📫 How to reach me hmu on github chat
+- 🌱 I’m currently learning SwiftUI,Java and Python
+- 📫 HMU on discord - FluentFlier 👾
 
 <!---
 FluentFlier/FluentFlier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
