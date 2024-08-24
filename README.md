@@ -3,7 +3,7 @@
 👋 Hi, I’m @FluentFlier
 
 🌟 Hackathon Enthusiast & Machine Learning Intern
-🏆 Hackathon Achievements: Participated in 14, won 11! 🚀
+🏆 Hackathon Achievements: Participated in 14, won 12! 🚀
 
 🎓 Current Role: Machine Learning Intern at the School of Life Sciences, Arizona State University.
 💡 Working with fascinating datasets, including live brain activities from animals and insects!
