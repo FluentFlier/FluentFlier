@@ -35,5 +35,3 @@ Discord: @FluentFlier 👾
 Let's connect and work together!
 
 [![FluentFlier's GitHub | Stats](https://stats.quira.sh/FluentFlier/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=FluentFlier)
-
-[![FluentFlier's GitHub | Languages Over Time](https://stats.quira.sh/FluentFlier/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=FluentFlier)
