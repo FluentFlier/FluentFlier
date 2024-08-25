@@ -33,3 +33,5 @@ Fun Facts: I am a polyglot, I speak 6 languages, aiming to hit 10 by 2025. I lov
 📫 Connect with Me
 Discord: @FluentFlier 👾
 Let's connect and work together!
+
+[![FluentFlier's GitHub | Stats](https://stats.quira.sh/FluentFlier/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=FluentFlier)
