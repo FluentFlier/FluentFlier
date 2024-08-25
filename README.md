@@ -1,6 +1,6 @@
 
 
-👋 Hi, I’m Anirudh Manjesh, I am a software developer based in Tempe, Arizona. Originally from from Bangalore, India (The best place in the worlddddd!!!!) 
+👋 Hi, I’m Anirudh Manjesh, I am a software developer based in Tempe, Arizona. Originally from from Bangalore, India
 
 🌟 Hackathon Enthusiast & Machine Learning Intern
 🏆 Hackathon Achievements: Participated in 15, won 12! 🚀
